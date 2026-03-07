@@ -1,0 +1,7 @@
+gradio==4.41.0
+transformers==4.35.0
+torch
+reportlab==4.0.7
+requests==2.31.0
+black==24.1.1
+autopep8==2.1.0
